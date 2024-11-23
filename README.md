@@ -98,7 +98,7 @@ Redirects to the original URL.
 **Endpoint:** `GET /:url`
 
 - Replace `:url` with the shortened URL key
-- Returns a 301 permanent redirect to the original URL
+- Returns a 301 permanent redirect to the original URL provided
 - Returns 404 if the URL is not found
 
 ## Project Structure
